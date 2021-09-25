@@ -48,4 +48,4 @@ Am I dizzy right now?
   
 Here are pictures of some Pokemon:  
 ![Tentacruel](https://cdn2.bulbagarden.net/upload/8/8e/Spr_1b_073.png) ![Slowbro](https://cdn2.bulbagarden.net/upload/a/a9/Spr_1g_080.png) ![Snorlax](https://cdn2.bulbagarden.net/upload/1/11/Spr_1b_143.png)  
-[Go to the top with a section link](https://github.com/JerrryLu/CSE-110-Lab-1/blob/Language/index.md#jerrys-user-page)
+[Here's a section link](https://github.com/JerrryLu/CSE-110-Lab-1/blob/Language/index.md#jerrys-user-page)
