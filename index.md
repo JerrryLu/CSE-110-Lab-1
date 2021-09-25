@@ -24,7 +24,7 @@ else {
 }
 ```
 
-You can google something on google using [google](google.com)  
+You can google something on google using [google](https://google.com)  
 
 Here is a link to the [readme](README.md)  
 
@@ -44,7 +44,7 @@ Here is a list of Bravely games in order of release:
 Am I dizzy right now?  
 - [ ] Yes
 - [ ] No
-- [x] 
+- [x] .
   
 Here are pictures of some Pokemon:  
 ![Tentacruel](https://cdn2.bulbagarden.net/upload/8/8e/Spr_1b_073.png) ![Slowbro](https://cdn2.bulbagarden.net/upload/a/a9/Spr_1g_080.png) ![Snorlax](https://cdn2.bulbagarden.net/upload/1/11/Spr_1b_143.png)
